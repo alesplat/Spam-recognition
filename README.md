@@ -9,7 +9,7 @@ This project focuses on recognising spam email. Dataset contains most of email a
 6. Imported the test set and made the fix that had been done previously for the training set
 7. Made prediction on the training data, obtaining a training error rate of around 9%.
 8. Performed the AUC in the training set
-9. Predicted the results on the test data
+9. Predicted the results on the test data, with an accuracy of 90%
 
 
 
