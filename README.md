@@ -1,5 +1,5 @@
 # Spam-recognition
-This project focuses on recognizing spam email. 
+This project focuses on recognising spam email. 
 
 ## Files in the repository
 - spam_train.csv, spam_test.csv => train and test set
